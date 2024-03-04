@@ -10,7 +10,7 @@ The dataset used in this project contains historical Australian weather data, in
 
 Project Structure:
 
-data/: Directory containing the dataset file (australian_weather_dataset.csv).
+Coursera_projects/ Directory containing the dataset file (weather_Data.csv).
 Coursera ML Final Assignment(MK).ipynb: Colab notebook containing code for data preprocessing, model training, and evaluation.
 README.md: This file, providing an overview of the project.
 
